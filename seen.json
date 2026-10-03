@@ -150,7 +150,6 @@
   "model:gpt5mini",
   "model:gpt5nano",
   "model:gpt5pro",
-  "model:gpt61sol",
   "model:gpt61solpro",
   "model:gpt6astra",
   "model:gpt6astrapro",
