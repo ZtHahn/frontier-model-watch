@@ -76,12 +76,12 @@ sequenceDiagram
     Lab->>OR: New model goes live
     GH->>OR: Poll catalog (every ~2h)
     GH->>GH: Normalize name, compare with seen.json
-    GH->>Me: Telegram: New AI model · Lab · date
+    GH->>Me: Telegram alert with model, lab and date
     GH->>GH: Commit updated seen.json
     Note over CL: Next morning, 8:56 ET
     CL->>Lab: Research launch posts, benchmarks, pricing
-    CL->>D: Update timeline, cards, scores; republish
-    CL->>Me: Push notification + email summary
+    CL->>D: Update timeline, cards and scores, then republish
+    CL->>Me: Push notification and email summary
 ```
 
 ---
