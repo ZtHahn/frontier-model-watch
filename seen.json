@@ -86,6 +86,7 @@
   "model:gemini37flash",
   "model:gemini38flash",
   "model:gemini3flashpreview",
+  "model:gemini4argon",
   "model:gemma227b",
   "model:gemma312b",
   "model:gemma327b",
