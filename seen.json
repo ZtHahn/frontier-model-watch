@@ -66,6 +66,7 @@
   "model:deepseekv32",
   "model:deepseekv32exp",
   "model:deepseekv41flash",
+  "model:deepseekv41flash1017",
   "model:deepseekv4flash0423",
   "model:deepseekv4flash0731",
   "model:deepseekv4flashvisionexp",
