@@ -155,6 +155,7 @@
   "model:gpt5pro",
   "model:gpt61sol",
   "model:gpt61solpro",
+  "model:gpt61terra",
   "model:gpt6astra",
   "model:gpt6astrapro",
   "model:gpt6luna",
