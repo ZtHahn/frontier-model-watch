@@ -88,6 +88,8 @@
   "model:gemini38flash",
   "model:gemini3flashpreview",
   "model:gemini4argon",
+  "model:gemini4argoncyberpermissive",
+  "model:gemini4carbon",
   "model:gemma227b",
   "model:gemma312b",
   "model:gemma327b",
@@ -184,6 +186,7 @@
   "model:kimik2thinking",
   "model:kimik3",
   "model:kimik31pro",
+  "model:kimik31prohighspeed",
   "model:llama3170binstruct",
   "model:llama318binstruct",
   "model:llama321binstruct",
@@ -218,6 +221,7 @@
   "model:musespark13contributor",
   "model:musesparkopen",
   "model:musewonder",
+  "model:musewonderfull",
   "model:nanobanana21",
   "model:nanobanana2gemini31flashimage",
   "model:nanobanana2gemini31flashimagepreview",
@@ -225,6 +229,8 @@
   "model:nanobananagemini25flashimage",
   "model:nanobananaprogemini3proimage",
   "model:nanobananaprogemini3proimagepreview",
+  "model:nemotron35bolt74b",
+  "model:nemotron35bolte4b4gb",
   "model:nemotron35contentsafety",
   "model:nemotron35lightning",
   "model:nemotron35supervl",
@@ -300,6 +306,7 @@
  ],
  "heartbeat": "2026-10-28T08:44:37+00:00",
  "seeded_sources": [
-  "openrouter"
+  "openrouter",
+  "tracker"
  ]
 }
