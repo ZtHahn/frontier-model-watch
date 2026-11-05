@@ -90,6 +90,8 @@
   "model:gemini4argon",
   "model:gemini4argoncyberpermissive",
   "model:gemini4carbon",
+  "model:geminiomni11flash",
+  "model:geminiomni12flash",
   "model:gemma227b",
   "model:gemma312b",
   "model:gemma327b",
