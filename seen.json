@@ -302,6 +302,7 @@
   "model:qwen3vl32binstruct",
   "model:qwen3vl8binstruct",
   "model:qwen3vl8bthinking",
+  "model:qwen4max",
   "model:qwenplus",
   "model:qwenplus0728",
   "model:r1",
