@@ -92,6 +92,7 @@
   "model:gemini4argoncyberpermissive",
   "model:gemini4carbon",
   "model:gemini4hydrogen",
+  "model:gemini4neon",
   "model:geminiomni11flash",
   "model:geminiomni12flash",
   "model:gemma227b",
